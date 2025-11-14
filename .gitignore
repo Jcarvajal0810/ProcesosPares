@@ -1,0 +1,20 @@
+# Ignorar ejecutables
+*.exe
+
+# Ignorar archivos de objeto
+*.o
+
+# Ignorar librerías estáticas
+*.a
+
+# Ignorar carpetas generadas por la compilación
+bin/
+lib/
+
+# Ignorar archivos temporales
+*.log
+*.temp
+*.tmp
+
+# Ignorar dependencias de build si aparecen
+build/
